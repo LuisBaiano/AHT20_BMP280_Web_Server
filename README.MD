@@ -57,7 +57,6 @@ src/
 └── ssd1306/ # (Local para a biblioteca de baixo nível do display)
 ```
 
-```
 ## Configuração do Ambiente
 
 1.  **Instale o Pico C/C++ SDK** e a toolchain ARM, seguindo o guia oficial da Raspberry Pi.
