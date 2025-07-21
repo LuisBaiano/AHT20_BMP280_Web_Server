@@ -1,4 +1,3 @@
-```
 # Estação Meteorológica com Interface Web para BitDogLab (Pico W)
 
 Este projeto consiste em uma estação meteorológica completa desenvolvida para a plataforma BitDogLab, baseada no Raspberry Pi Pico W. O sistema monitora temperatura, umidade e pressão atmosférica, exibindo os dados localmente em um display OLED e servindo uma interface web responsiva com gráficos e formulários de configuração.
@@ -35,7 +34,6 @@ Este projeto consiste em uma estação meteorológica completa desenvolvida para
 ## Estrutura do Projeto
 
 O código-fonte está organizado de forma modular dentro do diretório `src/`:
-```
 
 ```
 src/
