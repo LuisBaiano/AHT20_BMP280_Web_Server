@@ -102,4 +102,3 @@ src/
     - A página exibirá as leituras individuais, gráficos históricos e o formulário de configuração.
     - Preencha os campos de limites e offsets e clique em "Salvar Alterações" para atualizar as configurações na placa.
 4.  **Alertas:** Se qualquer valor de temperatura ou umidade (após calibração) sair dos limites definidos, o LED RGB ficará vermelho, a matriz de LEDs mostrará um 'X' e o buzzer soará intermitentemente. O display OLED também mostrará um '!' ao lado do valor fora do limite.
-```
