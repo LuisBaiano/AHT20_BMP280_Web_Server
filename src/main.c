@@ -14,6 +14,9 @@
 #include "include/external/aht20.h"
 #include "include/external/bmp280.h"
 
+// Crie um arquivo de credencias de wifi e defina WIFI_SSID e WIFI_PASSWORD
+#include "include/wifi_credentials.h"
+
 
 EstacaoMeteo_t estacao;
 static ssd1306_t ssd_global;

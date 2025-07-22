@@ -1,11 +1,6 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-
-// --- Configuração da Rede Wi-Fi ---
-#define WIFI_SSID     "CLARO_2G86C2FE"
-#define WIFI_PASSWORD "DE86C2FE"
-
 #define TCP_PORT 80
 #define TCP_SERVER_POLL_TIME_S 5
 #define HTTP_REQUEST_BUFFER_SIZE 4096

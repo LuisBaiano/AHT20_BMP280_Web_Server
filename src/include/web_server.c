@@ -7,6 +7,7 @@
 
 #include "web_server.h"
 #include "config.h"
+#include "wifi_credentials.h"
 
 #define REQUEST_BUFFER_SIZE 2048
 #define HTML_BUFFER_SIZE    8192
